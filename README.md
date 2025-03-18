@@ -2,8 +2,6 @@
 
 This is a dedicated sheet for you to learn Programming language, DSA, CS Fundamentals, System Design, Aptitude and Behavioral Questions from scratch and get you ready for your next Job.
 
-A lot of effort goes into making the video and sheet, One ⭐ to the repo and one share to the video [Video Link](https://youtu.be/4GfYxXRuacU) will not hurt you. 🥺
-
 # Programming Language [10 Points]
 
 First and for most thing is a programming language which follows OOPs concepts like CPP, JAVA or Python.
